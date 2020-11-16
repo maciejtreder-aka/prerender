@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Newline home page",
+        "url": "https://www.newline.co",
+        "descirption": "Landing page for Newline.co - website where you can find one of the best online courses and books about software development. Place where you can learn advanced React, TypeScript, GraphQL, Angular, and more by building a production-ready full-stack applications.",
+        "image": "newline.jpg"
+    },
+    {
+        "title": "Maciej Treder home page",
+        "url": "https://www.maciejtreder.com",
+        "descirption": "Maciej Treder website, where you can find information about his publications, conference presentations, and courses.",
+        "image": "maciejtreder.jpg"
+    }
+]
