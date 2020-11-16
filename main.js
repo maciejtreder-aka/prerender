@@ -266,7 +266,7 @@ class ContentService {
         this.http = http;
     }
     getRealizations() {
-        return this.http.get('/assets/realizations.json');
+        return this.http.get('/prerender/assets/realizations.json');
     }
 }
 ContentService.ɵfac = function ContentService_Factory(t) { return new (t || ContentService)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵinject"](_angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClient"])); };
